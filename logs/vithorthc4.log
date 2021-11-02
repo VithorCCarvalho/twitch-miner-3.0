@@ -1,0 +1,118 @@
+02/11/21 06:10:31 - INFO - TwitchChannelPointsMiner.TwitchChannelPointsMiner - [run]: Start session: 'd6462cb4-89b7-42db-9a21-fbab2a523c1d'
+02/11/21 06:10:31 - INFO - TwitchChannelPointsMiner.classes.TwitchLogin - [login_flow]: You'll have to login to Twitch!
+02/11/21 06:10:31 - DEBUG - urllib3.connectionpool - [_new_conn]: Starting new HTTPS connection (1): passport.twitch.tv:443
+02/11/21 06:11:39 - INFO - TwitchChannelPointsMiner.TwitchChannelPointsMiner - [run]: Start session: '26e28734-8a92-4b88-9bb4-a5fe6120030e'
+02/11/21 06:11:39 - INFO - TwitchChannelPointsMiner.classes.TwitchLogin - [login_flow]: You'll have to login to Twitch!
+02/11/21 06:11:39 - DEBUG - urllib3.connectionpool - [_new_conn]: Starting new HTTPS connection (1): passport.twitch.tv:443
+02/11/21 06:15:41 - INFO - TwitchChannelPointsMiner.TwitchChannelPointsMiner - [run]: Start session: 'e059aac4-4ed5-4637-ba23-fd3fc53a911a'
+02/11/21 06:15:41 - INFO - TwitchChannelPointsMiner.classes.TwitchLogin - [login_flow]: You'll have to login to Twitch!
+02/11/21 06:15:41 - DEBUG - urllib3.connectionpool - [_new_conn]: Starting new HTTPS connection (1): passport.twitch.tv:443
+02/11/21 06:16:00 - INFO - TwitchChannelPointsMiner.TwitchChannelPointsMiner - [run]: Start session: 'e4a4c2b2-ef05-44f5-9435-4dac11c81fb0'
+02/11/21 06:16:00 - INFO - TwitchChannelPointsMiner.classes.TwitchLogin - [login_flow]: You'll have to login to Twitch!
+02/11/21 06:16:00 - DEBUG - urllib3.connectionpool - [_new_conn]: Starting new HTTPS connection (1): passport.twitch.tv:443
+02/11/21 06:17:16 - INFO - TwitchChannelPointsMiner.TwitchChannelPointsMiner - [run]: Start session: '5ddefa77-cd96-424a-afd0-26b37aaf4875'
+02/11/21 06:17:16 - INFO - TwitchChannelPointsMiner.classes.TwitchLogin - [login_flow]: You'll have to login to Twitch!
+02/11/21 06:17:16 - DEBUG - urllib3.connectionpool - [_new_conn]: Starting new HTTPS connection (1): passport.twitch.tv:443
+02/11/21 06:18:15 - INFO - TwitchChannelPointsMiner.TwitchChannelPointsMiner - [run]: Start session: '895bb049-d94f-4f14-9930-5dfc8a071ae1'
+02/11/21 06:18:15 - INFO - TwitchChannelPointsMiner.classes.TwitchLogin - [login_flow]: You'll have to login to Twitch!
+02/11/21 06:18:15 - DEBUG - urllib3.connectionpool - [_new_conn]: Starting new HTTPS connection (1): passport.twitch.tv:443
+02/11/21 06:20:05 - INFO - TwitchChannelPointsMiner.TwitchChannelPointsMiner - [run]: Start session: 'de5a21cb-ffa5-49fa-aa8a-4014d5ce70ac'
+02/11/21 06:20:05 - INFO - TwitchChannelPointsMiner.classes.TwitchLogin - [login_flow]: You'll have to login to Twitch!
+02/11/21 06:20:05 - DEBUG - urllib3.connectionpool - [_new_conn]: Starting new HTTPS connection (1): passport.twitch.tv:443
+02/11/21 14:49:48 - INFO - TwitchChannelPointsMiner.TwitchChannelPointsMiner - [run]: Start session: '802682b6-4aee-4544-ac9f-1286996f3c5c'
+02/11/21 14:49:48 - INFO - TwitchChannelPointsMiner.classes.TwitchLogin - [login_flow]: You'll have to login to Twitch!
+02/11/21 14:49:48 - DEBUG - urllib3.connectionpool - [_new_conn]: Starting new HTTPS connection (1): passport.twitch.tv:443
+02/11/21 14:52:56 - INFO - TwitchChannelPointsMiner.TwitchChannelPointsMiner - [run]: Start session: '60e0a38e-fa0a-4afa-8ce5-71140853cb69'
+02/11/21 14:52:56 - INFO - TwitchChannelPointsMiner.classes.TwitchLogin - [login_flow]: You'll have to login to Twitch!
+02/11/21 14:52:56 - DEBUG - urllib3.connectionpool - [_new_conn]: Starting new HTTPS connection (1): passport.twitch.tv:443
+02/11/21 14:52:59 - DEBUG - urllib3.connectionpool - [_make_request]: https://passport.twitch.tv:443 "POST /login HTTP/1.1" 400 447
+02/11/21 14:52:59 - INFO - TwitchChannelPointsMiner.classes.TwitchLogin - [login_flow]: Login Verification code required.
+02/11/21 14:53:49 - INFO - TwitchChannelPointsMiner.TwitchChannelPointsMiner - [end]: CTRL+C Detected! Please wait just a moment!
+02/11/21 14:53:49 - INFO - TwitchChannelPointsMiner.TwitchChannelPointsMiner - [__print_report]: Ending session: '60e0a38e-fa0a-4afa-8ce5-71140853cb69'
+02/11/21 14:53:49 - INFO - TwitchChannelPointsMiner.TwitchChannelPointsMiner - [__print_report]: Logs file: C:\Users\jvith\OneDrive\Área de Trabalho\miner\logs\vithorthc4.log
+02/11/21 14:53:49 - INFO - TwitchChannelPointsMiner.TwitchChannelPointsMiner - [__print_report]: Duration 0:00:53.298733
+02/11/21 14:53:52 - INFO - TwitchChannelPointsMiner.TwitchChannelPointsMiner - [run]: Start session: 'f7f8ab5d-25b9-459a-adce-acc89915a861'
+02/11/21 14:53:52 - INFO - TwitchChannelPointsMiner.classes.TwitchLogin - [login_flow]: You'll have to login to Twitch!
+02/11/21 14:53:52 - DEBUG - urllib3.connectionpool - [_new_conn]: Starting new HTTPS connection (1): passport.twitch.tv:443
+02/11/21 14:54:07 - DEBUG - urllib3.connectionpool - [_make_request]: https://passport.twitch.tv:443 "POST /login HTTP/1.1" 400 447
+02/11/21 14:54:07 - INFO - TwitchChannelPointsMiner.classes.TwitchLogin - [login_flow]: Login Verification code required.
+02/11/21 14:55:57 - INFO - TwitchChannelPointsMiner.TwitchChannelPointsMiner - [end]: CTRL+C Detected! Please wait just a moment!
+02/11/21 14:55:57 - INFO - TwitchChannelPointsMiner.TwitchChannelPointsMiner - [__print_report]: Ending session: 'f7f8ab5d-25b9-459a-adce-acc89915a861'
+02/11/21 14:55:57 - INFO - TwitchChannelPointsMiner.TwitchChannelPointsMiner - [__print_report]: Logs file: C:\Users\jvith\OneDrive\Área de Trabalho\miner\logs\vithorthc4.log
+02/11/21 14:55:57 - INFO - TwitchChannelPointsMiner.TwitchChannelPointsMiner - [__print_report]: Duration 0:02:05.163394
+02/11/21 15:27:15 - INFO - TwitchChannelPointsMiner.TwitchChannelPointsMiner - [run]: Start session: 'ee6eb9ba-33b6-44df-bc09-81552e601227'
+02/11/21 15:27:15 - INFO - TwitchChannelPointsMiner.classes.TwitchLogin - [login_flow]: You'll have to login to Twitch!
+02/11/21 15:27:15 - DEBUG - urllib3.connectionpool - [_new_conn]: Starting new HTTPS connection (1): passport.twitch.tv:443
+02/11/21 15:27:17 - DEBUG - urllib3.connectionpool - [_make_request]: https://passport.twitch.tv:443 "POST /login HTTP/1.1" 400 161
+02/11/21 15:27:17 - ERROR - TwitchChannelPointsMiner.classes.TwitchLogin - [login_flow]: Unknown error: {'error': 'Invalid Password. Passwords must be between 8 and 71 characters and not be easily guessable.', 'error_code': 2005, 'error_description': 'invalid password'}
+02/11/21 15:27:39 - INFO - TwitchChannelPointsMiner.TwitchChannelPointsMiner - [run]: Start session: 'bfe084c5-4818-4651-999f-025272f4131f'
+02/11/21 15:27:39 - INFO - TwitchChannelPointsMiner.classes.TwitchLogin - [login_flow]: You'll have to login to Twitch!
+02/11/21 15:27:39 - DEBUG - urllib3.connectionpool - [_new_conn]: Starting new HTTPS connection (1): passport.twitch.tv:443
+02/11/21 15:27:43 - DEBUG - urllib3.connectionpool - [_make_request]: https://passport.twitch.tv:443 "POST /login HTTP/1.1" 400 161
+02/11/21 15:27:43 - ERROR - TwitchChannelPointsMiner.classes.TwitchLogin - [login_flow]: Unknown error: {'error': 'Invalid Password. Passwords must be between 8 and 71 characters and not be easily guessable.', 'error_code': 2005, 'error_description': 'invalid password'}
+02/11/21 15:28:45 - INFO - TwitchChannelPointsMiner.TwitchChannelPointsMiner - [run]: Start session: 'ca2d8407-b42a-4d4a-84ac-27664522c011'
+02/11/21 15:28:45 - INFO - TwitchChannelPointsMiner.classes.TwitchLogin - [login_flow]: You'll have to login to Twitch!
+02/11/21 15:28:45 - DEBUG - urllib3.connectionpool - [_new_conn]: Starting new HTTPS connection (1): passport.twitch.tv:443
+02/11/21 15:28:52 - DEBUG - urllib3.connectionpool - [_make_request]: https://passport.twitch.tv:443 "POST /login HTTP/1.1" 400 447
+02/11/21 15:28:52 - INFO - TwitchChannelPointsMiner.classes.TwitchLogin - [login_flow]: Login Verification code required.
+02/11/21 15:31:00 - INFO - TwitchChannelPointsMiner.TwitchChannelPointsMiner - [end]: CTRL+C Detected! Please wait just a moment!
+02/11/21 15:31:00 - INFO - TwitchChannelPointsMiner.TwitchChannelPointsMiner - [__print_report]: Ending session: 'ca2d8407-b42a-4d4a-84ac-27664522c011'
+02/11/21 15:31:00 - INFO - TwitchChannelPointsMiner.TwitchChannelPointsMiner - [__print_report]: Logs file: C:\Users\jvith\OneDrive\Área de Trabalho\miner\logs\vithorthc4.log
+02/11/21 15:31:00 - INFO - TwitchChannelPointsMiner.TwitchChannelPointsMiner - [__print_report]: Duration 0:02:14.441992
+02/11/21 15:31:23 - INFO - TwitchChannelPointsMiner.TwitchChannelPointsMiner - [run]: Start session: '0d64ac93-1b3c-403a-ac54-da69748fc2f2'
+02/11/21 15:31:23 - INFO - TwitchChannelPointsMiner.classes.TwitchLogin - [login_flow]: You'll have to login to Twitch!
+02/11/21 15:31:23 - DEBUG - urllib3.connectionpool - [_new_conn]: Starting new HTTPS connection (1): passport.twitch.tv:443
+02/11/21 15:33:14 - INFO - TwitchChannelPointsMiner.TwitchChannelPointsMiner - [run]: Start session: 'f756475a-7d6d-4644-974a-2c7e73449647'
+02/11/21 15:33:14 - INFO - TwitchChannelPointsMiner.classes.TwitchLogin - [login_flow]: You'll have to login to Twitch!
+02/11/21 15:33:14 - DEBUG - urllib3.connectionpool - [_new_conn]: Starting new HTTPS connection (1): passport.twitch.tv:443
+02/11/21 15:34:25 - INFO - TwitchChannelPointsMiner.TwitchChannelPointsMiner - [run]: Start session: '2a05b4c8-72d2-4467-a8c8-d69b36679809'
+02/11/21 15:34:25 - INFO - TwitchChannelPointsMiner.classes.TwitchLogin - [login_flow]: You'll have to login to Twitch!
+02/11/21 15:34:25 - DEBUG - urllib3.connectionpool - [_new_conn]: Starting new HTTPS connection (1): passport.twitch.tv:443
+02/11/21 15:34:35 - DEBUG - urllib3.connectionpool - [_make_request]: https://passport.twitch.tv:443 "POST /login HTTP/1.1" 400 447
+02/11/21 15:34:35 - INFO - TwitchChannelPointsMiner.classes.TwitchLogin - [login_flow]: Login Verification code required.
+02/11/21 15:35:27 - INFO - TwitchChannelPointsMiner.TwitchChannelPointsMiner - [end]: CTRL+C Detected! Please wait just a moment!
+02/11/21 15:35:27 - INFO - TwitchChannelPointsMiner.TwitchChannelPointsMiner - [__print_report]: Ending session: '2a05b4c8-72d2-4467-a8c8-d69b36679809'
+02/11/21 15:35:27 - INFO - TwitchChannelPointsMiner.TwitchChannelPointsMiner - [__print_report]: Logs file: C:\Users\jvith\OneDrive\Área de Trabalho\miner\logs\vithorthc4.log
+02/11/21 15:35:27 - INFO - TwitchChannelPointsMiner.TwitchChannelPointsMiner - [__print_report]: Duration 0:01:02.337472
+02/11/21 15:40:29 - INFO - TwitchChannelPointsMiner.TwitchChannelPointsMiner - [run]: Start session: 'a53c5c5a-460d-41c0-8390-f8ff7b931827'
+02/11/21 15:40:29 - INFO - TwitchChannelPointsMiner.classes.TwitchLogin - [login_flow]: You'll have to login to Twitch!
+02/11/21 15:40:29 - DEBUG - urllib3.connectionpool - [_new_conn]: Starting new HTTPS connection (1): passport.twitch.tv:443
+02/11/21 15:40:32 - INFO - TwitchChannelPointsMiner.TwitchChannelPointsMiner - [end]: CTRL+C Detected! Please wait just a moment!
+02/11/21 15:40:32 - INFO - TwitchChannelPointsMiner.TwitchChannelPointsMiner - [__print_report]: Ending session: 'a53c5c5a-460d-41c0-8390-f8ff7b931827'
+02/11/21 15:40:32 - INFO - TwitchChannelPointsMiner.TwitchChannelPointsMiner - [__print_report]: Logs file: C:\Users\jvith\OneDrive\Área de Trabalho\miner\logs\vithorthc4.log
+02/11/21 15:40:32 - INFO - TwitchChannelPointsMiner.TwitchChannelPointsMiner - [__print_report]: Duration 0:00:02.929638
+02/11/21 16:04:42 - INFO - TwitchChannelPointsMiner.TwitchChannelPointsMiner - [run]: Start session: '298ff517-41c7-4f54-80b0-b943a58a57ad'
+02/11/21 16:04:42 - INFO - TwitchChannelPointsMiner.classes.TwitchLogin - [login_flow]: You'll have to login to Twitch!
+02/11/21 16:04:42 - DEBUG - urllib3.connectionpool - [_new_conn]: Starting new HTTPS connection (1): passport.twitch.tv:443
+02/11/21 16:06:56 - INFO - TwitchChannelPointsMiner.TwitchChannelPointsMiner - [run]: Start session: '559d4013-da37-4361-8656-893e5c1a92b9'
+02/11/21 16:06:56 - INFO - TwitchChannelPointsMiner.classes.TwitchLogin - [login_flow]: You'll have to login to Twitch!
+02/11/21 16:06:56 - DEBUG - urllib3.connectionpool - [_new_conn]: Starting new HTTPS connection (1): passport.twitch.tv:443
+02/11/21 16:08:36 - INFO - TwitchChannelPointsMiner.TwitchChannelPointsMiner - [run]: Start session: 'e934e174-d186-41b7-88d6-b67f7ccdcdab'
+02/11/21 16:08:36 - INFO - TwitchChannelPointsMiner.classes.TwitchLogin - [login_flow]: You'll have to login to Twitch!
+02/11/21 16:08:36 - DEBUG - urllib3.connectionpool - [_new_conn]: Starting new HTTPS connection (1): passport.twitch.tv:443
+02/11/21 16:09:54 - INFO - TwitchChannelPointsMiner.TwitchChannelPointsMiner - [run]: Start session: '3b64d6d6-34ab-4a27-9b10-d944e2a01665'
+02/11/21 16:09:54 - INFO - TwitchChannelPointsMiner.classes.TwitchLogin - [login_flow]: You'll have to login to Twitch!
+02/11/21 16:10:29 - INFO - TwitchChannelPointsMiner.TwitchChannelPointsMiner - [run]: Start session: '97e1dda2-a47d-49fb-95e7-0a6d4fc4a414'
+02/11/21 16:10:29 - INFO - TwitchChannelPointsMiner.classes.TwitchLogin - [login_flow]: You'll have to login to Twitch!
+02/11/21 16:10:29 - DEBUG - urllib3.connectionpool - [_new_conn]: Starting new HTTPS connection (1): passport.twitch.tv:443
+02/11/21 16:11:21 - INFO - TwitchChannelPointsMiner.TwitchChannelPointsMiner - [run]: Start session: 'e0e2980e-1bb6-407c-8687-416d4e3051a8'
+02/11/21 16:11:21 - INFO - TwitchChannelPointsMiner.classes.TwitchLogin - [login_flow]: You'll have to login to Twitch!
+02/11/21 16:11:21 - DEBUG - urllib3.connectionpool - [_new_conn]: Starting new HTTPS connection (1): passport.twitch.tv:443
+02/11/21 16:12:16 - INFO - TwitchChannelPointsMiner.TwitchChannelPointsMiner - [run]: Start session: '07df6828-f918-4cc0-a777-d0197afa2317'
+02/11/21 16:12:16 - INFO - TwitchChannelPointsMiner.classes.TwitchLogin - [login_flow]: You'll have to login to Twitch!
+02/11/21 16:12:16 - DEBUG - urllib3.connectionpool - [_new_conn]: Starting new HTTPS connection (1): passport.twitch.tv:443
+02/11/21 16:13:32 - INFO - TwitchChannelPointsMiner.TwitchChannelPointsMiner - [run]: Start session: '35e8b4d3-f2fa-43ed-b8ab-e916f079a03a'
+02/11/21 16:13:32 - INFO - TwitchChannelPointsMiner.classes.TwitchLogin - [login_flow]: You'll have to login to Twitch!
+02/11/21 16:13:32 - DEBUG - urllib3.connectionpool - [_new_conn]: Starting new HTTPS connection (1): passport.twitch.tv:443
+02/11/21 16:14:27 - INFO - TwitchChannelPointsMiner.TwitchChannelPointsMiner - [run]: Start session: '0a2fb9a3-8279-417d-a885-05baf63e6f82'
+02/11/21 16:14:27 - INFO - TwitchChannelPointsMiner.classes.TwitchLogin - [login_flow]: You'll have to login to Twitch!
+02/11/21 16:14:27 - DEBUG - urllib3.connectionpool - [_new_conn]: Starting new HTTPS connection (1): passport.twitch.tv:443
+02/11/21 16:17:22 - INFO - TwitchChannelPointsMiner.TwitchChannelPointsMiner - [run]: Start session: 'a3bbdbaa-c16e-4883-a3bf-4017a315854d'
+02/11/21 16:17:22 - INFO - TwitchChannelPointsMiner.classes.TwitchLogin - [login_flow]: You'll have to login to Twitch!
+02/11/21 16:17:22 - DEBUG - urllib3.connectionpool - [_new_conn]: Starting new HTTPS connection (1): passport.twitch.tv:443
+02/11/21 16:17:24 - DEBUG - urllib3.connectionpool - [_make_request]: https://passport.twitch.tv:443 "POST /login HTTP/1.1" 400 447
+02/11/21 16:17:24 - INFO - TwitchChannelPointsMiner.classes.TwitchLogin - [login_flow]: Login Verification code required.
+02/11/21 16:17:45 - INFO - TwitchChannelPointsMiner.TwitchChannelPointsMiner - [end]: CTRL+C Detected! Please wait just a moment!
+02/11/21 16:17:45 - INFO - TwitchChannelPointsMiner.TwitchChannelPointsMiner - [__print_report]: Ending session: 'a3bbdbaa-c16e-4883-a3bf-4017a315854d'
+02/11/21 16:17:45 - INFO - TwitchChannelPointsMiner.TwitchChannelPointsMiner - [__print_report]: Logs file: C:\Users\jvith\OneDrive\Área de Trabalho\miner\logs\vithorthc4.log
+02/11/21 16:17:45 - INFO - TwitchChannelPointsMiner.TwitchChannelPointsMiner - [__print_report]: Duration 0:00:22.905034
