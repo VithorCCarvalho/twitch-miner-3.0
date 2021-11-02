@@ -158,8 +158,6 @@ class TwitchLogin(object):
         "https": "http://"+self.proxys,
         }
 
-        print(proxy)
-
         response = self.session.post("https://passport.twitch.tv/login", json=json_data)
         return response.json()
 
