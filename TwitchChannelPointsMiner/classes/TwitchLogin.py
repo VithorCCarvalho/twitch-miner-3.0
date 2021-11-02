@@ -153,11 +153,11 @@ class TwitchLogin(object):
         
         proxy = self.proxys
         
-        if (proxy = "")
+        if proxy == "":
            response = self.session.post("https://passport.twitch.tv/login", json=json_data)
            return response.json()
         
-        if (proxy != "")
+        if proxy != "":
            response = self.session.post("https://passport.twitch.tv/login", json=json_data, proxies=proxy)
            return response.json()
 
