@@ -151,12 +151,15 @@ class TwitchLogin(object):
 
     def send_login_request(self, json_data):
         
-        if (self.proxys = "")
-            self.proxys = None
-            return self.proxys
-
-        response = self.session.post("https://passport.twitch.tv/login", json=json_data, proxies=proxy)
-        return response.json()
+        proxy = self.proxys
+        
+        if (proxy = "")
+           response = self.session.post("https://passport.twitch.tv/login", json=json_data)
+           return response.json()
+        
+        if (proxy != "")
+           response = self.session.post("https://passport.twitch.tv/login", json=json_data, proxies=proxy)
+           return response.json()
 
     def login_flow_backup(self):
         """Backup OAuth login flow in case manual captcha solving is required"""
