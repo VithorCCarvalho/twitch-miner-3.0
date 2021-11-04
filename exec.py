@@ -23,8 +23,8 @@ twitch_miner = TwitchChannelPointsMiner(
         save=True,                              # If you want to save logs in a file (suggested)
         console_level=logging.INFO,             # Level of logs - use logging.DEBUG for more info
         file_level=logging.DEBUG,               # Level of logs - If you think the log file it's too big, use logging.INFO
-        emoji=True,                             # On Windows, we have a problem printing emoji. Set to false if you have a problem
-        less=False,                             # If you think that the logs are too verbose, set this to True
+        emoji=False,                             # On Windows, we have a problem printing emoji. Set to false if you have a problem
+        less=True,                             # If you think that the logs are too verbose, set this to True
         colored=True,                           # If you want to print colored text
         color_palette=ColorPalette(             # You can also create a custom palette color (for the common message).
             STREAMER_online="GREEN",            # Don't worry about lower/upper case. The script will parse all the values.
@@ -33,7 +33,7 @@ twitch_miner = TwitchChannelPointsMiner(
         )
     ),
     streamer_settings=StreamerSettings(
-        make_predictions=True,                  # If you want to Bet / Make prediction
+        make_predictions=False,                  # If you want to Bet / Make prediction
         follow_raid=True,                       # Follow raid to obtain more points
         claim_drops=True,                       # We can't filter rewards base on stream. Set to False for skip viewing counter increase and you will never obtain a drop reward from this script. Issue #21
         watch_streak=True,                      # If a streamer go online change the priority of streamers array and catch the watch streak. Issue #11
@@ -64,9 +64,11 @@ twitch_miner = TwitchChannelPointsMiner(
 # For example, if in the mine function you don't provide any value for 'make_prediction' but you have set it on TwitchChannelPointsMiner instance, the script will take the value from here.
 # If you haven't set any value even in the instance the default one will be used
 
+text = input("Insira suas lives separadas por virgula: ")
+
 twitch_miner.mine(
     [
-        input("Insira suas lives separadas por virgula: ")
+        text.split(',')
     ],                                 # Array of streamers (order = priority)
     followers=False                    # Automatic download the list of your followers (unable to set custom settings for you followers list)
 )
