@@ -64,11 +64,6 @@ twitch_miner = TwitchChannelPointsMiner(
 # For example, if in the mine function you don't provide any value for 'make_prediction' but you have set it on TwitchChannelPointsMiner instance, the script will take the value from here.
 # If you haven't set any value even in the instance the default one will be used
 
-text = input("Insira suas lives separadas por virgula: ")
+text = input("Insira suas lives separadas por virgula sem espaços: ")
 
-twitch_miner.mine(
-    [
-        text.split(',')
-    ],                                 # Array of streamers (order = priority)
-    followers=False                    # Automatic download the list of your followers (unable to set custom settings for you followers list)
-)
+twitch_miner.mine(text.split(','), followers=False )
